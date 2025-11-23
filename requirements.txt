@@ -1,0 +1,7 @@
+streamlit
+Pillow
+requests
+firebase-admin
+google-cloud-firestore
+torch
+torchvision
